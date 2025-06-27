@@ -1,0 +1,1 @@
+console.log('Abishmar site ready');
